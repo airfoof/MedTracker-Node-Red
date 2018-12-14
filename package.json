@@ -1,0 +1,12 @@
+{
+    "name": "MedTracker-Node-Red",
+    "description": "Application to remind me to taken my meds and make it easy to track the action. ",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_medTracker.json",
+            "credentialsFile": "flows_medTracker_cred.json"
+        }
+    }
+}
